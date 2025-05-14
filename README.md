@@ -40,8 +40,6 @@
 
 
 
-<h3>📊 My GitHub Stats</h3>
-
 <div style="display: flex; align-items: center; gap: 20px;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Polo&layout=pie&theme=dark" />

@@ -1,12 +1,4 @@
-   <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
 
-  <img src="https://media0.giphy.com/media/v1.    Y2lkPTc5MGI3NjExb2l2MnIxaG83ZmlzYzZsZmJxd21mdmpkejk2d2ZiNnV2eXNoZnB2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="190"/>
-
-  <h1> Hi there 👋 Welcome to my GitHub!</h1>
-
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHhuN2liOGc5bzRxazlncHJ1a3B3b29uemE4b2FqOWkxZnBmcmVuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="170"/>
-
-  </div>
 
 
 ![Banner](banner.png)
@@ -48,7 +40,14 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juan-Polo&show_icons=true&theme=radical)
+<h3>📊 My GitHub Stats</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Polo&layout=pie&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; align-items: center; gap: 20px;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Polo&layout=pie&theme=dark" />
+  </a>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2l2MnIxaG83ZmlzYzZsZmJxd21mdmpkejk2d2ZiNnV2eXNoZnB2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="400"/>
+</div>
+
+
 
